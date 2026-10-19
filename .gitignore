@@ -1,0 +1,11 @@
+# 个人数据 / 运行时文件（不上传）
+data.db
+data.db-shm
+data.db-wal
+data.db-journal
+cache/
+*.log
+
+# 系统文件
+Thumbs.db
+Desktop.ini
